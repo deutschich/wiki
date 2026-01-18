@@ -24,6 +24,10 @@ To get into the `.minecraft` folder, you have to open the **Windows Search** and
 ```
 . Now you are in the `.minecraft`-Folder.
 
+### Minecraft: Bedrock Edition
+
+To use this Pack on **Minecraft: Java Edition**, you have to Download the Pack on the Official Download Site [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/cheapdesign-bedrock) and open it. Minecraft should open and import the file.
+
 # Can I create own variations of this Pack?
 
 Yes, you can create your own version if you add a clearly visible link to our repository as attribution.
