@@ -1,2 +1,4 @@
-* [What is this wiki about?](/)
+* [Getting started?](/)
 * [Updates](updates)
+* [Contributing](contributing.md)
+* [Developer Information](developer-information)
