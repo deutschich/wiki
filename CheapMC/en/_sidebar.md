@@ -1,5 +1,4 @@
-* [This is the old wiki](/)
-* [Getting started?](/README_old)
+* [Getting started?](/)
 * [Updates](updates)
   * [Roadmap](roadmap)
 * [Contributing](contributing.md)
