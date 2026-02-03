@@ -1,28 +1,28 @@
 # Aggiornamenti di CheapDesign
 
-Qui trovi alcune informazioni per ogni aggiornamento di CheapDesign. Qui trovi anche alcune curiosità sull'aggiornamento.
+Ecco alcune informazioni per ogni aggiornamento di CheapDesign. Qui ci sono anche alcuni insider per l'aggiornamento.
 
 ## L'Aggiornamento Redstone
 
-Questo aggiornamento è stato la prima **versione non alfa**.
+Questo aggiornamento è stato la prima **versione non alpha**.
 
-### Registro delle modifiche ufficiale:
+### Changelog Ufficiale:
 
-># 0.0.001: L'Aggiornamento Redstone
+> # 0.0.001: L'Aggiornamento Redstone
 >
 > Questo aggiornamento aggiunge alcuni oggetti Redstone
 >
-> ![The New Items](https://github.com/deutschich/CheapMC/blob/dev/screenshots/v0.0.001.png?raw=true)
+> __IMMAGINE0__
 >
 > ## Aggiunto:
 >
->- Oggetti Redstone:
->  - **Torcia Redstone**
->  - **Comparatore**
->  - **Ripetitore**
->  - **Blocco bersaglio**
->  - **Lampada Redstone**
->  - **Polvere Redstone** (Texture del blocco)
->  - **Levante**
->- Altri oggetti:
->  - **Ciottoli**
+> - Oggetti Redstone:
+>   - **Torcia Redstone**
+>   - **Comparator**
+>   - **Repeater**
+>   - **Target Block**
+>   - **Lampada Redstone**
+>   - **Polvere Redstone** (Texture Blocchi)
+>   - **Leva**
+> - Altri oggetti:
+>   - **Mina di Laterizio**

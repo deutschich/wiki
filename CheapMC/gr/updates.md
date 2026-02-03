@@ -1,28 +1,28 @@
 # Ενημερώσεις του CheapDesign
 
-Ακολουθούν κάποιες πληροφορίες για κάθε ενημέρωση του CheapDesign. Επίσης υπάρχουν μερικά insiders για την ενημέρωση.
+Ακολουθούν κάποιες πληροφορίες για κάθε ενημέρωση του CheapDesign. Επίσης, υπάρχουν μερικά εσωτερικά στοιχεία για την ενημέρωση.
 
-## Η ενημέρωση Redstone
+## Η Ενημέρωση Redstone
 
-Αυτή η ενημέρωση ήταν η πρώτη **μη-αλφα έκδοση**.
+Αυτή η ενημέρωση ήταν η πρώτη **μη αλφα έκδοση**.
 
-### Επίσημη λίστα αλλαγών:
+### Επίσημος Καταγραφέας Αλλαγών:
 
-> # 0.0.001: Η ενημέρωση Redstone
+> 0.0.001: Η Ενημέρωση Redstone
 >
-> Αυτή η ενημέρωση προσθέτει μερικά αντικείμενα Redstone
+> Αυτή η ενημέρωση προσθέτει κάποια αντικείμενα Redstone
 >
-> ![The New Items](https://github.com/deutschich/CheapMC/blob/dev/screenshots/v0.0.001.png?raw=true)
+> __Εικόνα0__
 >
-> ## Προστέθηκαν:
+> ## Προστέθηκε:
 >
-> - Αντικείμενα Redstone:
->   - **Redstone Torch**
->   - **Comparator**
->   - **Repeater**
->   - **Target Block**
->   - **Redstone Lamp**
->   - **Redstone Dust** (Block Textures)
->   - **Lever**
-> - Άλλα αντικείμενα:
->   - **Cobblestone**
+>- Αντικείμενα Redstone:
+>  - **Redstone Torch**
+>  - **Comparator**
+>  - **Repeater**
+>  - **Target Block**
+>  - **Redstone Lamp**
+>  - **Redstone Dust** (Block Textures)
+>  - **Lever**
+>- Άλλα αντικείμενα:
+>  - **Cobblestone**

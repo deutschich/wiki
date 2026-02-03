@@ -1,6 +1,6 @@
-* [Getting started?](/)
-* [Updates](updates)
-  * [Roadmap](roadmap)
-* [Contributing](contributing.md)
-* [Developer Information](developer-information)
-* [Our new Wiki](new_wiki)
+* **Ссылка0**
+* **Ссылка1**
+  * **Ссылка2**
+* **Ссылка3**
+* **Ссылка4**
+* **Ссылка5**

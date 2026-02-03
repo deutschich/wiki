@@ -1,6 +1,6 @@
-* __Σύνδεσμος0__
-* __Σύνδεσμος1__
-  * __Σύνδεσμος2__
-* __Σύνδεσμος3__
-* __Σύνδεσμος4__
-* __Σύνδεσμος5__
+* [Getting started?](/)
+* [Updates](updates)
+  * [Roadmap](roadmap)
+* [Contributing](contributing.md)
+* [Developer Information](developer-information)
+* [Our new Wiki](new_wiki)
